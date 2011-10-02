@@ -1,0 +1,3 @@
+Preferences in Android are used to keep track of application and user preferences. This demo shows how to access default preferences from PreferenceManager. 
+
+Original Source - http://marakana.com/forums/android/examples/63.html
